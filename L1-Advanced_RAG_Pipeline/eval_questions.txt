@@ -1,10 +1,7 @@
-What are the keys to building a career in AI?
-How can teamwork contribute to success in AI?
-What is the importance of networking in AI?
-What are some good habits to develop for a successful career?
-How can altruism be beneficial in building a career?
-What is imposter syndrome and how does it relate to AI?
-Who are some accomplished individuals who have experienced imposter syndrome?
-What is the first step to becoming good at AI?
-What are some common challenges in AI?
-Is it normal to find parts of AI challenging?
+What is the name of article?
+How the writer used the AI method?
+What is the contribution of this paper?
+Who are the authors?
+How many networks have been applied in this paper?
+What deep learning methods has been applied?
+What is the result of the paper?

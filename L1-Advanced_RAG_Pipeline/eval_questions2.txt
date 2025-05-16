@@ -1,7 +1,0 @@
-What is the name of article?
-How the writer used the AI method?
-What is the contribution of this paper?
-Who are the authors?
-How many networks have been applied in this paper?
-What deep learning methods has been applied?
-What is the result of the paper?
